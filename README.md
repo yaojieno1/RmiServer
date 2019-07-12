@@ -1,6 +1,6 @@
 # RmiServer
 
-Rmi Server for jdbc Payload
+Java Rmi Server for jdbc Payload
 
 ## Step 1
 
@@ -23,4 +23,6 @@ Start Rmi Server
 
 Right click on src/RmiServer.java and select "Run As -> Java Application"
 
+## Step 4
 
+Now you can visit RmiServer by URI "rmi://127.0.0.1:1099/Exploit" 
